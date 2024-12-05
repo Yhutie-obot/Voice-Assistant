@@ -1,0 +1,16 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE files (Optional, if you're using VS Code)
+.vscode/
+
+# Ignore any other files you don't want to track
+*.log
+*.db
